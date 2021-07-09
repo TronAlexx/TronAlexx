@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
-cd $HOME/BLACKBOTSS
+القرص المضغوط  $ HOME / TronAlexx
 rm -rf $HOME/.telegram-cli
 install() {
 apt install dnsutils
 rm -rf $HOME/.telegram-cli
 sudo chmod +x tg
-chmod +x BLACKBOTSS
+chmod  + x TronAlexx
 chmod +x ts
 ./ts
 }
