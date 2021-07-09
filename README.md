@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @TronAlexx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">    Black Source</h1>
+<p align="center">
+<img src="https://i.ibb.co/sp4vDB7/file-20.jpg"></p>
+______________________________________________________________________________________________________________________
 
-<!---
-TronAlexx/TronAlexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## How to install the bot
+
+### There are three ways to install [1,2,3]:-
+
+<h2 align="center">1</h2>
+
+**If it was your first install**
+
+#### The following code should be used
+
+**use::**  ``` git clone https://github.com/BLACKBOTSS/BLACKBOTSS && cd BLACKBOTSS && chmod +x install.sh && ./install.sh ```
+______________________________________________________________________________________________________________________
+
+<h3 align="center">2</h3>
+
+**If you have already installed it previously**
+
+#### The following code should be used
+
+**use::**  ``` git clone https://github.com/BLACKBOTSS/BLACKBOTSS && cd BLACKBOTSS && chmod +x Fastinstall.sh &&chmod +x install.sh && ./Fastinstall.sh```
+
+______________________________________________________________________________________________________________________
+
+<h4 align="center">3</h4> 
+
+**Run bot**
+
+**The following code should be used**
+
+**use::**```./BLACKBOTSS/ts```
